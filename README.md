@@ -200,12 +200,6 @@
             font-size: 0.9rem;
         }
     </style>
-</head>
-<body>
-    <header>
-        <h1>Crypto Profit Calculator</h1>
-        <p class="tagline">Calculate your potential cryptocurrency gains and losses</p>
-    </header>
 
     <div class="container">
         <div class="calculator">
