@@ -1,1 +1,1 @@
-# Cryptoproftcalculator
+# Crypto profit calculator
