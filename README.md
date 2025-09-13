@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -203,7 +204,7 @@
 </head>
 <body>
     <header>
-        <h1>Crypto Profit Calculator</h1>
+        <h1> Crypto Profit Calculator</h1>
         <p class="tagline">Calculate your potential cryptocurrency gains and losses</p>
     </header>
 
