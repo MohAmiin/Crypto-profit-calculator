@@ -1,4 +1,3 @@
-# Crypto profit calculator
 <!DOCTYPE html>
 <html lang="en">
 <head>
